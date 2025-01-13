@@ -25,6 +25,6 @@ This model can predict whether applicants will be successful if funded by Alphab
 ## I am not completely satisfied with the performance, but this is the best result I have. 
 
 
-### Recomendation. Columns 'NAME', 'CLASSIFICATION',  'AFFILIATION', 'INCOME_AMT<=': Data is scewed to "Other" bucket. If changing cutoff, the result is too many buckets. May need to work in that direction to improve performance.
+### Overall I have around 79 accruracy for prediction if the no-profit ask will be successfull.
 
-## Overall this project was a lot of fun.
+### Recomendation. Columns 'NAME', 'CLASSIFICATION',  'AFFILIATION', 'INCOME_AMT<=': Data is scewed to "Other" bucket. If changing cutoff, the result is too many buckets. May need to work in that direction to improve performance.
